@@ -1,4 +1,4 @@
-# Nanodegree Engenheiro de Machine Learning
+# Nanodegree Data Scientist
 # Aprendizagem supervisionada
 ## Projeto: Encontrando doadores para a CharityML
 
@@ -54,3 +54,5 @@ O conjunto de dados do censo consiste em 32.000 registros, sendo que cada regist
 
 **Variável-alvo**
 - `income`: Classe de renda (<=50K,>50K)</=50K,>
+
+## 📝 Link para o notebook: [finding_donors](https://github.com/lucasalmeiidaa/Udacity-finding_donors/blob/master/finding_donors_PT.ipynb)
